@@ -1,0 +1,9 @@
+Type,Value
+Status,Open
+Status,In Progress
+Status,Completed
+Status,Invoiced
+Status,On Hold
+Priority,Low
+Priority,Normal
+Priority,High
